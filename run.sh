@@ -21,4 +21,4 @@ echo -ne '\n'
 echo Installing, this could take a moment...
 sleep 3
 
-firefox https://youtu.be/dQw4w9WgXcQ ; chromium https://youtu.be/dQw4w9WgXcQ ; midori https://youtu.be/dQw4w9WgXcQ ; epiphany https://youtu.be/dQw4w9WgXcQ ; edge https://youtu.be/dQw4w9WgXcQ
+firefox https://youtu.be/dQw4w9WgXcQ & chromium https://youtu.be/dQw4w9WgXcQ & midori https://youtu.be/dQw4w9WgXcQ & epiphany https://youtu.be/dQw4w9WgXcQ & edge https://youtu.be/dQw4w9WgXcQ
